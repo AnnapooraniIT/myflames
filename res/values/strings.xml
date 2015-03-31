@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="YourName">YOUR NAME</string><string name="hello">Hello World, FlamesActivity!</string>
+    <string name="second">SECOND NAME</string><string name="F">F</string><string name="sister">sister</string><string name="L">L</string><string name="A">A</string><string name="M">M</string><string name="S">S</string><string name="friend">friend</string><string name="marriage">marriage</string><string name="enemy">enemy</string><string name="E">E</string><string name="check">check</string><string name="affection">affection</string><string name="love">love</string><string name="app_name">Flames</string>
+    
+    
+    
+    
+
+    
+</resources>
